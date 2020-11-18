@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoctorScheduling", "DoctorScheduling.vcxproj", "{7E75042E-85F4-4363-B4F7-AA2B38DD0129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E75042E-85F4-4363-B4F7-AA2B38DD0129}.Debug|x64.ActiveCfg = Debug|x64
+		{7E75042E-85F4-4363-B4F7-AA2B38DD0129}.Debug|x64.Build.0 = Debug|x64
+		{7E75042E-85F4-4363-B4F7-AA2B38DD0129}.Release|x64.ActiveCfg = Release|x64
+		{7E75042E-85F4-4363-B4F7-AA2B38DD0129}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245FA62C-4376-4682-AE34-DA4FEF64DB6B}
+	EndGlobalSection
+EndGlobal
